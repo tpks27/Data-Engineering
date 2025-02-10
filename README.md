@@ -26,3 +26,4 @@ Distributed event store and stream processing platform
 - **Event** - An immutable fact regarding something that has occured in system.
 
 ### Architecture Diagram
+
